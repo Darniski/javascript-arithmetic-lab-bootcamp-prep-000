@@ -26,5 +26,5 @@ return a.toString()
 }
 
 function makeInt(a) {
-  return parseInt(a , "0x2328")
+  return parseInt("ax2338", 0)
 }
