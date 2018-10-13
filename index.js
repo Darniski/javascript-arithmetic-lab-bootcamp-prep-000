@@ -26,5 +26,5 @@ return a.toString()
 }
 
 function makeInt(a) {
-  return parseInt("word", a)
+  return parseInt("word", a == 0)
 }
